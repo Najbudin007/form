@@ -1,0 +1,30 @@
+.bootstrap-iso {
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333333;
+    background-color: #f8f9fa !important;
+}
+
+.birth{
+    font-size: 21px;
+    font-weight: lighter;
+}
+
+.social{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 800;
+    color: blue;
+    margin-top: 15px;
+}
+
+.minor{
+
+    align-items: center;
+    text-align: center;
+    margin-top: 15px;
+    font-size: 22px;
+    font-weight: 700;
+    color: green;
+
+}
